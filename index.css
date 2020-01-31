@@ -25,8 +25,8 @@ body {
   text-align: center;
   border: grey solid 1px;
   padding: 1rem;
-  width: 15rem;
-  height: 25rem;
+  width: 10rem;
+  height: 10rem;
   display: inline-grid;
   margin: 1rem 2rem;
   box-shadow: 3px 4px #e04b52
@@ -34,7 +34,7 @@ body {
 
 .toy-avatar {
   justify-self: center;
-  height: 12rem;
+  height: 5rem;
   width: auto;
 }
 
@@ -43,8 +43,8 @@ button {
   background-color: #e04b52;
   border: none;
   border-radius: 5px;
-  height: 3rem;
-  width: max-content;
+  height: 2rem;
+  width: 5rem;
   color: whitesmoke;
   font-size: 18px;
   justify-self: center;
